@@ -37,7 +37,7 @@
 // Adicione uma imagem da sua fruta favorita via import
 
 
-// import Img from './melancia.jpg';
+
 
 import img from './img/melancia.jpg';
 
